@@ -1,2 +1,2 @@
 # week3_b
-My very first repo...I am so happy to be learning code.  Why oh why am I doing this....
+My very first repo...I am so happy to be learning code.
